@@ -6,4 +6,4 @@ Implements:
 - qTip (JavaScript library)
 - Data sourced from Google Calendar
 
-See working calendar at main site: atlantayogis.com
+See working calendar at main site: http://atlantayogis.com
