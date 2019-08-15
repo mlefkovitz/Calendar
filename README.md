@@ -1,6 +1,6 @@
 # Calendar Implementation for Atlanta Yogis
 
-![Calendar](Calendar.png)
+![Calendar](Calendar.PNG)
 
 See working calendar at main site: http://atlantayogis.com
 
