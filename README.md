@@ -2,7 +2,7 @@
 
 ![Calendar](Calendar.PNG)
 
-See working calendar at main site: http://atlantayogis.com
+See interactive calendar at main site: http://atlantayogis.com
 
 Implements:
 - FullCalendar (JavaScript library)
